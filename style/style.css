@@ -1,0 +1,20 @@
+body{
+    background-color: cornflowerblue;
+    font-family: arial, sans-serif;
+    font-size: 12px;
+}
+table{
+    border-style: solid;
+    border-width: 1px;
+    margin: auto;
+}
+caption{
+    color: navy;
+}
+#links, #rechts{
+    padding: 10px;
+    vertical-align: top;
+    height: 140px;
+    width: 50%;
+    border-style: dotted;
+}
